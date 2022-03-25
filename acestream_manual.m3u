@@ -77,3 +77,5 @@ http://192.168.1.121:2000/pid/5c4f1e8c505ef96610a1aa114795cf69d57f865d/stream.mp
 http://192.168.1.121:2000/pid/4d2e5cad27f18385fd492a798b1bcf27e0f1a5e0/stream.mp4
 #EXTINF:-1 tvg-id="aquí" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",aquí 
 http://192.168.1.121:2000/pid/53e45f3268f6b3eef669da192832f896aa324b73/stream.mp4
+#EXTINF:-1 tvg-id="PRUEBA ACESTREAM" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",PRUEBA ACESTREAM 
+http://192.168.1.121:2000/pid/57d8a0149a269edd6857f2b83d752b4575155b13/stream.mp4
